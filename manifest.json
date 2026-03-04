@@ -1,0 +1,51 @@
+{
+  "name": "Aviator MZ Pro - Sistema Quantum",
+  "short_name": "Aviator MZ",
+  "description": "Sistema Quantum Multi-Plataforma para Aviator Moçambique com análise avançada e previsões em tempo real",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0118",
+  "theme_color": "#7c3aed",
+  "scope": "/",
+  "lang": "pt-MZ",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/8HQwLua.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.imgur.com/LcbaweG.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.imgur.com/8HQwLua.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "categories": ["utilities", "finance", "entertainment"],
+  "shortcuts": [
+    {
+      "name": "Nova Análise",
+      "short_name": "Analisar",
+      "description": "Iniciar nova análise de previsão",
+      "url": "./",
+      "icons": [
+        {
+          "src": "https://i.imgur.com/8HQwLua.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false
+}
